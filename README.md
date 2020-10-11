@@ -1,2 +1,2 @@
 # robofriends
-A website build with React
+A website built with React
